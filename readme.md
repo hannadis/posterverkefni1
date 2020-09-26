@@ -1,0 +1,1 @@
+i made the divs all seperate for each ingredient, then I wanted to add some animation to the poster. 
