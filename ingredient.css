@@ -1,0 +1,66 @@
+
+.bread1 {
+    height: 60px;
+    width: 380px;
+    background: #AD7F5E;
+        border-radius: 5px;
+        border-top-left-radius: 43px;
+        border-top-right-radius: 43px;
+    
+}
+
+.mayo {
+    height: 10px;
+    width: 360px;
+    background: white;
+    border-radius: 100px;
+}
+
+.cheese {
+    height: 10px;
+    width: 370px;
+    background: yellow;
+    border-radius: 2px;
+}
+
+.ham {
+    height: 12px;
+    width: 370px;
+    background: pink;
+}
+.tomato {
+    height: 25px;
+    width: 250px;
+    background: orangered;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.lettuce {
+    height: 20px;
+    width: 390px;
+    background: #43862B;
+    border-radius: 5px;
+}
+
+.beef {
+    height: 35px;
+    width: 370px;
+    background: #492D1D;
+}
+
+
+
+.bread2 {
+    height: 40px;
+    width: 380px;
+    background: #AD7F5E;
+
+}
+
+.plate {
+    height: 10px;
+    width: 500px;
+    background: black;
+}
